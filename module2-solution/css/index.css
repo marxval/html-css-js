@@ -75,7 +75,7 @@ section p {
 }
 
 /********** Desktop Version **********/
-@media (min-width: 992px) and (max-width: 1200px) {
+@media (min-width: 992px) {
   .col-md-1 {
     width: 33.33%;
   }
