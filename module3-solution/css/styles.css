@@ -9,9 +9,7 @@ body {
   position: relative;
 }
 section div {
-  margin-bottom: 15px;
   background-color: rgb(153, 153, 153);
-  border: 2px solid black;
 }
 a {
   text-decoration: none;
@@ -24,8 +22,12 @@ h1 {
 }
 
 h2 {
+  margin: 0;
   font-size: 1.75em;
-  margin: 30px;
+  padding: 20px;
+}
+p {
+  margin: 0 15px;
 }
 section {
   float: left;
